@@ -18,3 +18,5 @@ project/msvc/bin/
 project/msvc/intermediate/
 libfaad/win32_ver.h
 *.user
+faad2.xcodeproj/project.xcworkspace/xcuserdata
+faad2.xcodeproj/xcuserdata
